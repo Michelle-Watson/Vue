@@ -29,7 +29,7 @@ Tasks > serve > Run task (same as npm run serve)
 
 
 ## Thought Process
-I've added commets throughout the files to help me understand what each line is doing, I hope it helps you too
+I've added commets throughout the files to help me understand what each line is doing, I hope it helps you too.
 
 
 
